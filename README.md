@@ -33,6 +33,7 @@
  
  1-account_details 
    Feilds in it   (account_number,user_name,password,name,type,balance,address,mob  ile,adhar)
+   
 2-beneficiaries
    Feilds in it
   (account_number,beneficiary_name,beneficiary_account_number)
