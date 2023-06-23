@@ -14,7 +14,7 @@
 
 # Prerequisite-:
 
-  Here basic knowledge of python is required with good command on exceptionl handlinh
+  Here basic knowledge of python is required with good command on exceptionl handling
   Basic commands of git 
   For database MySql 
   
@@ -28,7 +28,7 @@
 # MySql Details-: 
 # Database -:
  Here I have created database named as  'Banking_Project' .This will store all the table records.
- 
+ will ask to add beneficiary
 # Tables inside Database 'Banking_Project'
  
  1-account_details 
